@@ -24,6 +24,10 @@
 <h3>Text Styles</h3>
 <p>In this paragraph I am going to <u>underline this</u>, and then this is <strong> and very important</strong>, and then this is <em>italicised for effect</em>. For examples, <em>Oh No!</em> </p>
 
+<hr>
+<h3>Links and images</h3>
+<p>First I'm going to link to <a href="http://llt.msu.edu/issues/june2011/emerging.pdf-4">my website</a> </p>
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
