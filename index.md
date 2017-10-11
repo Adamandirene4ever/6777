@@ -2,10 +2,27 @@
 <h2>Section One: What you can learn here.</h2>
 <p> This is the first paragraph. </p>
 
+<hr>
+<h2>Some HTML Formating stuff</h2>
+<h3>Lists</h3>
+<h4>Odered lists have numbers</h4>
+<ol>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item3</li>
+</ol>
 
+<h4>Unodered lists have bullets</h4>
+<ul>
+  <li>Item 1</li>
+  <li>Item 2</li>
+  <li>Item3</li>
+</ul>
 
+<hr>
 
-
+<h3>Text Styles</h3>
+<p>In this paragraph I am going to <u>underline this</u>, and then this is <strong> and very important</strong>, and then this is <em>italicised for effect</em>. For examples, <em>Oh No!</em> </p>
 
 ### Support or Contact
 
