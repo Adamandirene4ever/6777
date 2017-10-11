@@ -28,6 +28,8 @@
 <h3>Links and images</h3>
 <p>First I'm going to link to <a href="http://llt.msu.edu/issues/june2011/emerging.pdf-4">my website</a> </p>
 
+<img src="https://c1.staticflickr.com/4/3955/15611491475_f1acfee819_z.jpg" />
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
