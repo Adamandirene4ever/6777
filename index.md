@@ -1,3 +1,13 @@
+<h2>Breadcrumb Pagination</h2>
+<ul class="breadcrumb">
+  <li><a href="#">Home</a></li>
+  <li><a href="#">Pictures</a></li>
+  <li><a href="#">Flowers from Adam to Irene</a></li>
+  <li>The Learning Cafe</li>
+</ul>
+
+</body>
+</html>
 <h1>Language Learning with Me</h1>
 <h2>Section One: What you can learn here.</h2>
 <p> This is the first paragraph. </p>
@@ -34,7 +44,7 @@
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
@@ -64,13 +74,4 @@ ul.breadcrumb li a:hover {
 </head>
 <body>
 
-<h2>Breadcrumb Pagination</h2>
-<ul class="breadcrumb">
-  <li><a href="#">Home</a></li>
-  <li><a href="#">Pictures</a></li>
-  <li><a href="#">Flowers from Adam to Irene</a></li>
-  <li>The Learning Cafe</li>
-</ul>
 
-</body>
-</html>
