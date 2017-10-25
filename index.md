@@ -69,7 +69,7 @@ ul.breadcrumb li a:hover {
   <li><a href="#">Home</a></li>
   <li><a href="#">Pictures</a></li>
   <li><a href="#">Flowers from Adam to Irene</a></li>
-  <li>Italy</li>
+  <li>The Learning Cafe</li>
 </ul>
 
 </body>
