@@ -6,8 +6,7 @@
   <li>The Learning Cafe</li>
 </ul>
 
-</body>
-</html>
+
 <h1>Language Learning with Me</h1>
 <h2>Section One: What you can learn here.</h2>
 <p> This is the first paragraph. </p>
