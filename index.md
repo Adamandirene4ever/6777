@@ -1,4 +1,4 @@
-<h2>Breadcrumb Pagination</h2>
+
 <ul class="breadcrumb">
   <li><a href="#">Home</a></li>
   <li><a href="#">Pictures</a></li>
