@@ -1,8 +1,8 @@
 <ul class="breadcrumb">
   <li>Home</li>
 </ul>
-<img src="IMG/Weeknd.jpg" />
-</p>
+<img src="IMG/Weeknd.jpg" style="width:50%;" />
+
 
 
 <h1>Language Learning with Me</h1>
