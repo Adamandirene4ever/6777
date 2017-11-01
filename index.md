@@ -1,7 +1,7 @@
 <ul class="breadcrumb">
   <li>Home</li>
 </ul>
-<IMG scre"IMG/Weeknd.jpg" />
+<img src="IMG/Weeknd.jpg" />
 </p>
 
 
