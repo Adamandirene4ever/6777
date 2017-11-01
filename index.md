@@ -2,6 +2,8 @@
   <li>Home</li>
 </ul>
 
+<img scre"img/weeknd.jpg" />
+
 
 <h1>Language Learning with Me</h1>
 <h2>Section One: What you can learn here.</h2>
